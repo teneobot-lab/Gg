@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Pure REST Chat",
+  "description": "A high-performance chat application using the native Google Gemini REST API without external SDKs or npm packages, built with pure JavaScript logic and React UI.",
+  "requestFramePermissions": []
+}
